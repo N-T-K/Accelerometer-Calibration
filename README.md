@@ -13,7 +13,7 @@ NOTE: Input should be converted to g's before running the solver. Refer to your 
 
 Example plot of before/after calibration of data:
 
-Error factor calcualted using chi^2:
+Error factor calculated using chi^2:
 * raw mag = 0.1088
 * corrected mag = 0.0583
 ![alt text](https://trello-attachments.s3.amazonaws.com/5bbe2c9c29d3bd6dff10d5f0/5c5c8c02ea0e0701efc883e2/a67318ae7c306e97c9f9da26dd5837d9/Screen_Shot_2019-06-01_at_1.34.43_PM.png)
